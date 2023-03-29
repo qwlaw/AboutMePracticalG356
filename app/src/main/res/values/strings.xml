@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AboutMePracticalG356</string>
+    <string name="name">Qian Wen</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit,
+        \n\nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        \n\nUt enim ad minim veniam, quis nostrud exercitation ullamco
+        \n\nlaboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+        \n\nin reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        \n\nExcepteur sint occaecat cupidatat non proident,
+        \n\nsunt in culpa qui officia deserunt mollit anim id est laborum
+        \n\ned ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
+        \n\nlaudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        \n\narchitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas
+        \n\nsit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
+        \n\nvoluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
+        \n\nconsectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore
+        \n\net dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum
+        \n\nexercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi
+        \n\nconsequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam
+        \n\nnihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
